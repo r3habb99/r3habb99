@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
 🔭 I’m currently working on my <b>skills</b> <br/>
  🌱 I’m currently learning <b>Everything</b><br/>
- 📫 Reach me at on InstaGram : <a href="https://www.instagram.com/r3habb.99">@r3habb.99</a><br/>
+ 📫 Reach me at on Instagram : <a href="https://www.instagram.com/r3habb.99">@r3habb.99</a><br/>
  </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-### In Future Looking Ahead On With This Languages And Tools :
+### In Future Looking Ahead With This Languages And Tools :
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][repo]
 [<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][repo]
