@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center" color= "white">
+<p align="center">
 
 <a href="https://www.instagram.com/r3habb.99/"> 
     <img src="https://raw.githubusercontent.com/priyanshuraj24/images/7f532054ceac46ca913bcb79966f9b11aa7c4212/Icon%20awesome-instagram.svg" width="40" />
