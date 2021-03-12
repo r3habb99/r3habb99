@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="https://www.instagram.com/r3habb.99/"> 
-    <img src="https://img.icons8.com/ios-glyphs/30/fa314a/github.png" width="30" />
+    <img src="https://raw.githubusercontent.com/priyanshuraj24/images/7f532054ceac46ca913bcb79966f9b11aa7c4212/Icon%20awesome-instagram.svg" width="40" />
 </a>
 <a href="https://www.facebook.com/rishabh.prajapati.77920/"> 
     <img src="https://raw.githubusercontent.com/priyanshuraj24/images/7f532054ceac46ca913bcb79966f9b11aa7c4212/Icon%20awesome-facebook.svg" width="40" />
