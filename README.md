@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img  alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" />
 </a>
 <a href="https://github.com/r3habb99"> 
-    <img src="https://raw.githubusercontent.com/priyanshuraj24/images/7f532054ceac46ca913bcb79966f9b11aa7c4212/Icon%20awesome-github.svg"  width="40" />
+    <img src="https://img.icons8.com/ios-glyphs/60/fa314a/github.png" width="40" />
 </a>
 
 
