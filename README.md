@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
 🔭 I’m currently working on my <b>skills</b> <br/>
  🌱 I’m currently learning <b>Everything</b><br/>
- 📫 Reach me at on Instagram : <a href="https://www.instagram.com/r3habb.99" color="Red">@r3habb.99</a><br/>
+ 📫 Reach me at on Instagram : <a href="https://www.instagram.com/r3habb.99">@r3habb.99</a><br/>
  </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="MongoDB" width="26px" src="https://www.mongodb.com/assets/images/global/favicon.ico" />][repo]
 [<img align="left" alt="git" width="60" src="https://git-scm.com/images/logo@2x.png" />][repo]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][repo]
-[<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][repo]
+
 
 <br />
 
