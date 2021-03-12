@@ -23,23 +23,23 @@ Here are some ideas to get you started:
 <p align="center">
 🔭 I’m currently working on my <b>skills</b> <br/>
  🌱 I’m currently learning <b>Everything</b><br/>
- 📫 Reach me at on Instagram : <a href="https://www.instagram.com/r3habb.99">@r3habb.99</a><br/>
+ 📫 Reach me at on Instagram : <a href="https://www.instagram.com/r3habb.99" color="Red">@r3habb.99</a><br/>
  </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
 <a href="https://www.instagram.com/r3habb.99/"> 
-    <img src="https://img.icons8.com/ios-glyphs/60/fa314a/instagram-new.png" width="40" />
+    <img src="https://img.icons8.com/ios-glyphs/60/fa314a/instagram-new.png" />
 </a>
 <a href="https://www.facebook.com/rishabh.prajapati.77920/"> 
-    <img src="https://img.icons8.com/ios-glyphs/60/fa314a/facebook-new.png" width="40" />
+    <img src="https://img.icons8.com/ios-glyphs/60/fa314a/facebook-new.png" />
 </a>
 <a  href="https://www.linkedin.com/in/rishabh-prajapati-a37137198/">
-    <img  alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" />
+    <img src="https://img.icons8.com/ios-glyphs/60/fa314a/linkedin.png" />
 </a>
 <a href="https://github.com/r3habb99"> 
-    <img src="https://img.icons8.com/ios-glyphs/60/fa314a/github.png" width="40" />
+    <img src="https://img.icons8.com/ios-glyphs/60/fa314a/github.png" />
 </a>
 
 
