@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-glyphs/60/fa314a/instagram-new.png" width="40" />
 </a>
 <a href="https://www.facebook.com/rishabh.prajapati.77920/"> 
-    <img src="https://raw.githubusercontent.com/priyanshuraj24/images/7f532054ceac46ca913bcb79966f9b11aa7c4212/Icon%20awesome-facebook.svg" width="40" />
+    <img src="https://img.icons8.com/ios-glyphs/60/fa314a/facebook-new.png" width="40" />
 </a>
 <a  href="https://www.linkedin.com/in/rishabh-prajapati-a37137198/">
     <img  alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" />
