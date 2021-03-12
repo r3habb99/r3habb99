@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="mysql" width="40px" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" />][repo]
 [<img align="left" alt="MongoDB" width="26px" src="https://www.mongodb.com/assets/images/global/favicon.ico" />][repo]
 [<img align="left" alt="git" width="60" src="https://git-scm.com/images/logo@2x.png" />][repo]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][repo]
+[<img align="left" alt="GitHub" width="30px" src="<img src="https://img.icons8.com/ios-glyphs/24/fa314a/github.png" />][repo]
 
 
 <br />
