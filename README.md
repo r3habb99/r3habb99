@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 🔭 I’m currently working on my <b>skills</b> <br/>
- 🌱 I’m currently learning <b>Everything</b><br/>
- 📫 Reach me at on Instagram : <a href="https://www.instagram.com/r3habb.99">@r3habb.99</a><br/>
+ 🌱 I’m currently learning and focusing on <b>MERN Stack</b><br/>
+ 📫 Reach me at on Instagram : <a href="https://www.instagram.com/r3habb.99">r3habb.99</a><br/>
  </p>
 
 <h3 align="center">Connect with me:</h3>
