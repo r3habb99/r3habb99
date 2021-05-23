@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> Hi 👋, I am r3habb99</h2>
+<h2 align="center"> Hi 👋, I am Rishabh Prajapati</h2>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=r3habb99&show_icons=true" alt="git stats"> -->
 
