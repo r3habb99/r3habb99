@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Software Developer.<br>👯 I’m looking to collaborate with people who are passionate like me.<br>
+🔭 I’m currently working as a Associate Software Developer.<br>👯 I’m looking to collaborate with people who are passionate like me.<br>
 
 
 ## 🌐 Socials:
